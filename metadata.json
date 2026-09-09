@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass Video Player",
+  "description": "Premium Android Video Player with real-time GPU filters, Media3 playback engine, and Liquid Glass UI controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

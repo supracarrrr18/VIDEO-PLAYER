@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Glass Player</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_rewind_10">Rewind 10 Seconds</string>
+    <string name="action_forward_10">Forward 10 Seconds</string>
+    <string name="action_close">Close</string>
+    <string name="action_pip">Picture-in-Picture</string>
+    <string name="action_cast">Cast</string>
+    <string name="action_share">Share</string>
+    <string name="action_subtitles">Subtitles</string>
+    <string name="action_audio">Audio &amp; Equalizer</string>
+    <string name="action_filters">GPU Color Filters</string>
+    <string name="action_more">More Options</string>
+    <string name="action_info">Info</string>
+    <string name="action_insight">InSight</string>
+    <string name="action_continue_watching">Continue Watching</string>
+    <string name="permission_required">Storage permission is required to browse and play your local videos.</string>
+</resources>
